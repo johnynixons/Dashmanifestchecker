@@ -16,8 +16,8 @@ The DASH MPD Checker is a Python script that allows you to check DASH (Dynamic A
    pip install xml.etree.ElementTree
 ## Usage
 Navigate to the project directory and run the script:
-
-python dash_checker.py
+  ```bash
+  python dash_checker.py
 
 The script will display a menu with the following options:
 
