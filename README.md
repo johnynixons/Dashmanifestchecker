@@ -17,9 +17,8 @@ The DASH MPD Checker is a Python script that allows you to check DASH (Dynamic A
 ## Usage
 Navigate to the project directory and run the script:
   ```bash
-  python dash_checker.py
-
-The script will display a menu with the following options:
+   python dash_checker.py
+## The script will display a menu with the following options
 
          * Check URL Chunk: Check if a specific URL is a valid chunk URL.
          * Total Number of Chunks and Range: Display the total number of audio and video chunks, along with their start and end times.
